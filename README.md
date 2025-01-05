@@ -29,8 +29,8 @@ A team project where I collaborated as a **frontend developer** among a diverse 
 ---
 
 ### 📊 GitHub Stats
-![Kanggyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Kanggyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggsong0328&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggsong0328&layout=compact&theme=radical)
 
 ---
 
