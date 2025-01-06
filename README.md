@@ -24,6 +24,9 @@ I'm **Kanggyu**, an aspiring **full-stack developer** currently focused on maste
 ---
 
 ## 🌟 Projects
+### 📖 [ChePl](https://github.com/ggsong0328/99Study)
+한국외국어대학교에서 진행한 HUFSummerHackthon에서 우수상을 받은 대학교 체육대회 플래너 '체플'에 프론트엔드 개발자로 참여하였습니다.
+
 ### 🚀 [WeKick](https://github.com/your-wekick-repo)  
 A team project where I collaborated as a **frontend developer** among a diverse team of PMs, designers, and backend developers. Focused on delivering an interactive and scalable web solution.
 
